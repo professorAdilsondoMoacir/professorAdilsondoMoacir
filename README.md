@@ -1,7 +1,7 @@
-- 👋 Olá sou o prfessor Adilson
-- 👀 Da EE Moacir Tomaz da Silva
-- 🌱  Ministro aulas nas 3ª séries do Ensino Médio  
-- 💞️ Do componete Tecnologia
+- 👋 Olá sou o prfessor Adilson.
+- 👀 Da EE Moacir Tomaz da Silva.
+- 🌱  Ministro aulas nas 3ª séries do Ensino Médio.  
+- 💞️ Do componete Tecnologia.
 
 
 <!---
